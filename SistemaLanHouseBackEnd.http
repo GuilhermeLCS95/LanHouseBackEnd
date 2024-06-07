@@ -1,0 +1,6 @@
+@SistemaLanHouseBackEnd_HostAddress = http://localhost:5206
+
+GET {{SistemaLanHouseBackEnd_HostAddress}}/lanhouse/
+Accept: application/json
+
+###
